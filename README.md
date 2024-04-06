@@ -2,7 +2,7 @@
 
 ![Shorts Summary Logo](./public/logo.jpg)
 
-**Habit Tracker** is a web application designed to create summaries of YouTube shorts videos using Artificial Intelligence to transcribe the video content and generate summaries. This project was developed as part of a hands-on session during the NLW AI (Rocketseat).
+**Shorts Summary** is a web application designed to create summaries of YouTube shorts videos using Artificial Intelligence to transcribe the video content and generate summaries. This project was developed as part of a hands-on session during the NLW AI (Rocketseat).
 
 ## Credits
 
