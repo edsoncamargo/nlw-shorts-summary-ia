@@ -46,8 +46,8 @@ To run the app locally, follow these steps:
 Clone the repository:
 
 ```bash
-git clone https://github.com/edsoncamargo/https://github.com/edsoncamargo/nlw-shorts-summary-ia
-cd your-path/https://github.com/edsoncamargo/nlw-shorts-summary-ia
+git clone git@github.com:edsoncamargo/nlw-shorts-summary-ia.git
+cd your-path/nlw-shorts-summary-ia
 ```
 
 Next, follow the steps below:
